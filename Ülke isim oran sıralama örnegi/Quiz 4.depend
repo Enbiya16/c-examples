@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588171065 source:c:\users\user\documents\c denemeler\quiz 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
