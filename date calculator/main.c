@@ -4,7 +4,7 @@
 
 void hesapla(int girilen_gun,int *yil,int *ay,int *gun){
 
-    //aya 30 gun diyip yılı 365 gun almıssınız sanırım ona gore yaptim
+  
 
     *yil = girilen_gun/365;
     girilen_gun=girilen_gun%365;
@@ -13,7 +13,7 @@ void hesapla(int girilen_gun,int *yil,int *ay,int *gun){
     *gun = girilen_gun;
 
 }
- //Muhammed Enbiya Demir no 190202018
+ 
 
 int main()
 {
