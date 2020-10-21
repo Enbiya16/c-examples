@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1575020030 source:c:\users\user\documents\c denemeler\strcmp sifre dogrulama\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-

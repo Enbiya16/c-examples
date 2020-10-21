@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1575966316 source:c:\users\user\documents\c denemeler\dosyaya yazdýrma ve okuma örnek\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
